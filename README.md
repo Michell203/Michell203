@@ -1,5 +1,5 @@
 Hi, I’m Michel.
-Second-year Computer Science student at McGill University, and I'm passionate about becoming a full-stack developer.
+Second-year Computer Science student at McGill University, and I'm passionate about becoming a great software developer.
 My LinkedIn is: www.linkedin.com/in/michelhijazin, or you can email me at michaelhijazeen203@gmail.com
 
 <!---

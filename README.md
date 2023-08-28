@@ -1,4 +1,4 @@
-Hi, I’m Michel, a second-year Computer Science student at McGill University, and I'm passionate about becoming a great software developer.
+Hi, I’m Michel, a third-year Computer Science student at McGill University, and I'm passionate about becoming a great software developer.
 My LinkedIn is: www.linkedin.com/in/michelhijazin, or you can email me at michaelhijazeen203@gmail.com
 
 <!---

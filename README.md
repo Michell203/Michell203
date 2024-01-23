@@ -1,7 +1,8 @@
 Using software, I want to build a better world.
 
 LinkedIn: www.linkedin.com/in/michelhijazin
-Email me at michaelhijazeen203@gmail.com
+
+Email: michaelhijazeen203@gmail.com
 
 <!---
 Michell203/Michell203 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

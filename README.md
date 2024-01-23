@@ -1,7 +1,6 @@
 Using software, I want to build a better world.
 
 LinkedIn: www.linkedin.com/in/michelhijazin
-
 Email: michaelhijazeen203@gmail.com
 
 <!---

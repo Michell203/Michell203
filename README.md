@@ -1,4 +1,4 @@
-Using software, I want to build a better world.
+Contributing to the world line by line.
 
 LinkedIn: www.linkedin.com/in/michelhijazin
 

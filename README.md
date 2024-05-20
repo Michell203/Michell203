@@ -1,4 +1,4 @@
-Contributing to the world line by line.
+Bioinformatics guy
 
 LinkedIn: www.linkedin.com/in/michelhijazin
 

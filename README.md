@@ -1,5 +1,3 @@
-Comp Bio guy
-
 LinkedIn: www.linkedin.com/in/michelhijazin
 
 Email: michelhijazinn@gmail.com
